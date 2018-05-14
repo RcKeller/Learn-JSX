@@ -7,24 +7,20 @@ List:
 - B
 
 ```jsx
-import React, { Component } from 'react'
-
-// Include fragments in here
-class Hierarchies extends Component {
-  render () {
+class Hierarchies extends React.Component {
+  render() {
     return (
-      <div id='hierarchies'>
+      <div>
         Hierarchies
       </div>
     )
   }
 }
-
-export default Hierarchies
+ReactDOM.render(<Hierarchies/>, mountNode)
 ```
 
 Block two:
 
 ```jsx
-() => <div></div>
+<div>Code preview!</div>
 ```
