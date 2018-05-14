@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Context extends Component {
@@ -11,3 +12,4 @@ class Context extends Component {
 }
 
 export default Context
+```

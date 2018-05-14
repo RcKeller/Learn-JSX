@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Promises extends Component {
@@ -11,3 +12,4 @@ class Promises extends Component {
 }
 
 export default Promises
+```

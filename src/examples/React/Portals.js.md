@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Portals extends Component {
@@ -11,3 +12,4 @@ class Portals extends Component {
 }
 
 export default Portals
+```

@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Destructuring extends Component {
@@ -11,3 +12,4 @@ class Destructuring extends Component {
 }
 
 export default Destructuring
+```

@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Props extends Component {
@@ -11,3 +12,4 @@ class Props extends Component {
 }
 
 export default Props
+```

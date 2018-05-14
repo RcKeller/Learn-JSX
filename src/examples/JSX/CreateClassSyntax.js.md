@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class CreateClass extends Component {
@@ -11,3 +12,4 @@ class CreateClass extends Component {
 }
 
 export default CreateClass
+```

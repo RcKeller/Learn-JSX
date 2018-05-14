@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class FunctionalProgramming extends Component {
@@ -11,3 +12,4 @@ class FunctionalProgramming extends Component {
 }
 
 export default FunctionalProgramming
+```

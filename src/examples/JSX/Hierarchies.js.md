@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 // Include fragments in here
@@ -12,3 +13,4 @@ class Hierarchies extends Component {
 }
 
 export default Hierarchies
+```

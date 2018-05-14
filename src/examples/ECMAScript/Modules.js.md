@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Modules extends Component {
@@ -11,3 +12,4 @@ class Modules extends Component {
 }
 
 export default Modules
+```

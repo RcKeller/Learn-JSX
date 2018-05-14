@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class StatelessComponent extends Component {
@@ -11,3 +12,4 @@ class StatelessComponent extends Component {
 }
 
 export default StatelessComponent
+```

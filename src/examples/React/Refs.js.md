@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Refs extends Component {
@@ -11,3 +12,4 @@ class Refs extends Component {
 }
 
 export default Refs
+```

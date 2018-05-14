@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class AsyncAwait extends Component {
@@ -11,3 +12,4 @@ class AsyncAwait extends Component {
 }
 
 export default AsyncAwait
+```

@@ -21,14 +21,14 @@ Exports a single js bundle that uses hash routes
 const App = () => (
   <UI>
     <Switch>
-      <Route exact path='/' component={HomePage}/>
-      <Route path="/js/ecmascript" component={ECMAScript} />
-      <Route path="/js/async" component={JSX} />
-      <Route path="/js/jsx" component={Async} />
-      <Route path="/js/react" component={ReactPage} />
-      <Route path="/style/css" component={CSS} />
-      <Route path="/style/scss" component={SCSS} />
-      <Route path="/style/less" component={LESS} />
+      <Route exact path='/' component={HomePage} />
+      <Route path='/js/ecmascript' component={ECMAScript} />
+      <Route path='/js/async' component={Async} />
+      <Route path='/js/jsx' component={JSX} />
+      <Route path='/js/react' component={ReactPage} />
+      <Route path='/style/css' component={CSS} />
+      <Route path='/style/scss' component={SCSS} />
+      <Route path='/style/less' component={LESS} />
       <Route component={NotFound} />
       {/* <Redirect to="/" /> */}
     </Switch>

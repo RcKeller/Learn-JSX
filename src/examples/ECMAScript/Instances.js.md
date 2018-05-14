@@ -1,3 +1,4 @@
+```jsx
 import React, { Component } from 'react'
 
 class Instances extends Component {
@@ -11,3 +12,4 @@ class Instances extends Component {
 }
 
 export default Instances
+```
