@@ -30,7 +30,6 @@ const App = () => (
       <Route path="/style/scss" component={SCSS} />
       <Route path="/style/less" component={LESS} />
       <Route component={NotFound} />
-      {/* <Redirect to="/" /> */}
     </Switch>
   </UI>
 )

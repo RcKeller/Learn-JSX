@@ -1,15 +1,15 @@
 import React, { Component } from 'react'
 
-class FrontPage extends Component {
+class HomePage extends Component {
   render () {
     return (
-      <article id='front-page'>
+      <article id='home-page'>
         <section>
-          FrontPage Page
+          HomePage Page
         </section>
       </article>
     )
   }
 }
 
-export default FrontPage
+export default HomePage

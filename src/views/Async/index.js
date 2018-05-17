@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 
-import styles from './Async.module.css'
 class Async extends Component {
   render () {
     return (

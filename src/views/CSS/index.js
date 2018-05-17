@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 
-import styles from './LESS.module.css'
+import styles from './CSS.module.css'
 class CSS extends Component {
   render () {
     return (
